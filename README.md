@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ugochi-rose
-- 👀 I’m interested in software and utilizating what i alredy know 
+- 👀 I’m interested in software and utilizating what i already know 
 - 🌱 I’m currently learning more programming languages
 - 💞️ I’m looking to collaborate on anyones who is interested
 - 📫 How to reach me ugochiakano@gmail.com
